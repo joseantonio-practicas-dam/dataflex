@@ -7,7 +7,7 @@ GroupCount=1
 HorizontalGroups=1
 [TabGroup0]
 GroupSize=40
-SelectedTab=13
+SelectedTab=2
 [Window0]
 Filename=Workspace Dashboard
 ViewType=101
@@ -29,15 +29,6 @@ CursorColumn=0
 TabIndex=1
 TabGroup=0
 [Window2]
-Filename=C:\DataFlex Projects\FutbolWebApp\AppSrc\SelectJugador.wo
-ViewType=102
-Top=21
-Left=0
-Bottom=593
-Right=1428
-TabIndex=2
-TabGroup=0
-[Window3]
 Filename=C:\DataFlex Projects\FutbolWebApp\AppSrc\SelectEntrenador.wo
 ViewType=102
 Top=21
@@ -46,7 +37,7 @@ Bottom=593
 Right=1428
 TabIndex=3
 TabGroup=0
-[Window4]
+[Window3]
 Filename=C:\DataFlex Projects\FutbolWebApp\AppSrc\SelectPosicion.wo
 ViewType=102
 Top=21
@@ -55,7 +46,7 @@ Bottom=593
 Right=1428
 TabIndex=4
 TabGroup=0
-[Window5]
+[Window4]
 Filename=C:\DataFlex Projects\FutbolWebApp\AppSrc\SelectEquipo.wo
 ViewType=102
 Top=21
@@ -64,7 +55,7 @@ Bottom=593
 Right=1428
 TabIndex=5
 TabGroup=0
-[Window6]
+[Window5]
 Filename=C:\DataFlex Projects\FutbolWebApp\AppSrc\SelectLiga.wo
 ViewType=102
 Top=21
@@ -73,7 +64,7 @@ Bottom=593
 Right=1428
 TabIndex=6
 TabGroup=0
-[Window7]
+[Window6]
 Filename=C:\DataFlex Projects\FutbolWebApp\AppSrc\ZoomJugador.wo
 ViewType=102
 Top=21
@@ -82,7 +73,7 @@ Bottom=593
 Right=1428
 TabIndex=7
 TabGroup=0
-[Window8]
+[Window7]
 Filename=C:\DataFlex Projects\FutbolWebApp\AppSrc\ZoomEntrenador.wo
 ViewType=102
 Top=21
@@ -91,7 +82,7 @@ Bottom=593
 Right=1428
 TabIndex=8
 TabGroup=0
-[Window9]
+[Window8]
 Filename=C:\DataFlex Projects\FutbolWebApp\AppSrc\ZoomPosicion.wo
 ViewType=102
 Top=21
@@ -100,7 +91,7 @@ Bottom=593
 Right=1428
 TabIndex=9
 TabGroup=0
-[Window10]
+[Window9]
 Filename=C:\DataFlex Projects\FutbolWebApp\AppSrc\ZoomEquipo.wo
 ViewType=102
 Top=21
@@ -109,7 +100,7 @@ Bottom=593
 Right=1428
 TabIndex=10
 TabGroup=0
-[Window11]
+[Window10]
 Filename=C:\DataFlex Projects\FutbolWebApp\AppSrc\ZoomLiga.wo
 ViewType=102
 Top=21
@@ -118,7 +109,7 @@ Bottom=593
 Right=1428
 TabIndex=11
 TabGroup=0
-[Window12]
+[Window11]
 Filename=C:\DataFlex Projects\FutbolWebApp\AppSrc\Dashboard.wo
 ViewType=102
 Top=21
@@ -127,7 +118,7 @@ Bottom=593
 Right=1428
 TabIndex=12
 TabGroup=0
-[Window13]
+[Window12]
 Filename=C:\Program Files\DataFlex 26.0\Pkg\cWebAppBase_Mixin.pkg
 ViewType=1
 Top=21
@@ -137,4 +128,13 @@ Right=1428
 CursorLine=284
 CursorColumn=5
 TabIndex=13
+TabGroup=0
+[Window13]
+Filename=C:\DataFlex Projects\FutbolWebApp\AppSrc\SelectJugador.wo
+ViewType=102
+Top=21
+Left=0
+Bottom=593
+Right=1428
+TabIndex=2
 TabGroup=0
